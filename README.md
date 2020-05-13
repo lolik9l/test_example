@@ -1,4 +1,6 @@
 # kickstarter
+Необходимо запустить сервер cd server -> node index.js
+Правильный логин/пароль для "входа": admin/admin
 
 ## Project setup
 ```
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
