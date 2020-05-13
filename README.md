@@ -1,6 +1,9 @@
 # kickstarter
+```
 Необходимо запустить сервер cd server -> node index.js
+
 Правильный логин/пароль для "входа": admin/admin
+```
 
 ## Project setup
 ```
